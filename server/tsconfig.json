@@ -1,11 +1,11 @@
 {
   "compilerOptions": {
-    "target": "ES6",                      // Output modern JavaScript
-    "module": "commonjs",                // Use CommonJS for Node.js compatibility
-    "rootDir": "./src",                  // Your TypeScript source files
-    "outDir": "./dist",                  // Compiled JavaScript output
-    "strict": true,                      // Enable all strict type checks
-    "esModuleInterop": true,             // Allow default imports from CommonJS modules
+    "target": "ES6",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true
   }
